@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ARandomVariable
-- 👀 I’m interested in AI as fuse for systems.
+- 👀 I’m interested in AI as an intelligent agent for systems.
 - 🌱 I’m currently learning AI alongwith languages 
 - 💞️ I’m looking to collaborate on AI algorithms
 - 📫 Reach out to me on email: pushpdeepsinghparmar@gmail.com
