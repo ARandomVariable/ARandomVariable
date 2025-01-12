@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI as an intelligent agent for systems.
 - 🌱 I’m currently learning AI alongwith languages 
 - 💞️ I’m looking to collaborate on AI algorithms
-- 📫 Reach out to me on email: pushpdeepsinghparmar@gmail.com
+- 📫 Reach out to me on email:
 
 <!---
 ARandomVariable/ARandomVariable is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
